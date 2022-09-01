@@ -6,13 +6,16 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
 
-## Known programming languages:
+---
+
+### Known programming languages:
 - C 
 - Java
 - Javascript
 - Python
 - Lua
 
+---
 
 - 📫 You can contact me using my e-mail favara.nicola@gmail.com or my linkedin account www.linkedin.com/in/nicola-favara
 
